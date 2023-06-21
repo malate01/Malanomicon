@@ -1,0 +1,4 @@
+echo "This" | tr "A-MN-Za-mn-z" "N-ZA-Mn-za-m"
+Guvf
+echo "Guvf" | tr "A-MN-Za-mn-z" "N-ZA-Mn-za-m"
+This
